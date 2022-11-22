@@ -1,12 +1,13 @@
 # Hi there, I'm Oussama Gorfti👋
 
-## I'm a self-taught front end developer and 1337 student 👨‍💻🚀
+<div align="center">I'm Oussama Gorfti, a full-time front end developer freelance developer 👨‍💻🚀</div>
+
 
 - 🔭 I’m currently working on [Password Generator](https://github.com/escano0r/password_generator)  
   
 
 - 🌱 I’m currently learning React & Redux  
-  
+
 
 - ⚡ Fun fact: I use tabs over spaces
 
