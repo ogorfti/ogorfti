@@ -1,15 +1,14 @@
-# Hi there, I'm Oussama Gorfti👋
-
-<div align="center">I'm Oussama Gorfti, a full-time front end developer freelance developer 👨‍💻🚀</div>
-
+### <div align="center">I'm Oussama Gorfti, a full-time front end developer freelance developer 👨‍💻🚀</div>  
+  
 
 - 🔭 I’m currently working on [Password Generator](https://github.com/escano0r/password_generator)  
   
 
 - 🌱 I’m currently learning React & Redux  
+  
 
+- ⚡ Fun fact: I use tabs over spaces  
 
-- ⚡ Fun fact: I use tabs over spaces
 
 ### Connect with me:
 
