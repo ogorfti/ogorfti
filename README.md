@@ -1,4 +1,7 @@
-<h3 align="center">A passionate frontend developer</h3>
+<h1 align="center">Hi 👋, I'm Oussama Gorfti</h1>
+<h3 align="center">A passionate frontend develope</h3>
+
+- 🔭 I’m currently working on **web project**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
