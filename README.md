@@ -1,4 +1,4 @@
-### <div align="center">I'm Oussama Gorfti, a full-time front end developer freelance developer 👨‍💻🚀</div>  
+### <div align="center">Hi there, I'm Oussama Gorfti, I'm a self-taught front end developer and 1337 student 💻🚀</div>  
   
 
 - 🔭 I’m currently working on [Password Generator](https://github.com/escano0r/password_generator)  
