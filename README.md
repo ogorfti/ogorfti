@@ -12,6 +12,8 @@
 
 ### Connect with me:
 
+<img align='right' src="https://media2.giphy.com/media/wogIubFweiBkn6y8KU/giphy.gif" width="100px">
+
 Join me on Twitter where I tweet about projects I'm working on, tools I am using, or other platforms where I post about my personal life.
 
 [<img align="left" width="26px"
