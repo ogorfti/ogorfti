@@ -34,13 +34,8 @@ alt="linkedin" src="https://img.icons8.com/ios-filled/50/000000/instagram-new--v
 
 [<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />][css]
 
-[<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />][nodejs]
 
 [<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />][reactjs]
-
-[<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />][nextjs]
-
-[<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />][nestjs]
 
 [<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />][git]
 
@@ -56,10 +51,7 @@ alt="linkedin" src="https://img.icons8.com/ios-filled/50/000000/instagram-new--v
 [javascript]: https://www.javascript.com/ 'javascript'
 [html]: https://developer.mozilla.org/en-US/docs/Web/HTML 'html'
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS 'css'
-[nodejs]: https://nodejs.org/en/ 'nodejs'
 [reactjs]: https://reactjs.org/ 'reactjs'
-[nextjs]: https://nextjs.org/ 'nextjs'
-[nestjs]: https://nestjs.com/ 'nestjs'
 [git]: https://git-scm.com/ 'git'
 [c]: https://en.wikipedia.org/wiki/C_(programming_language)
 [c++]: https://en.wikipedia.org/wiki/C%2B%2B
