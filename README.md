@@ -60,3 +60,37 @@ alt="linkedin" src="https://img.icons8.com/ios-filled/50/000000/instagram-new--v
 [twitter]: https://twitter.com
 [linkedin]: https://www.linkedin.com
 [instagram]: https://www.instagram.com/oussama_gf/
+
+<!--- STATS -->
+<!-- <p align="center">
+    <a href="https://github.com/ogorfti">
+      <img
+        align="center"
+        src="https://badge.mediaplus.ma/greenbinary/ogorfti"
+      />
+    </a>
+</p> -->
+
+<p align="center">
+    <a href="https://github.com/ogorfti">
+      <img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api?username=ogorfti&theme=algolia&show_icons=true"
+      />
+    </a>
+  <a href="https://github.com/ogorfti">
+      <img
+        align="center"
+        src="http://github-readme-streak-stats.herokuapp.com?user=ogorfti&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FF8964&ring=FFCB2B"
+      />
+ </a>
+</p>
+
+<p align="center">
+<a href="https://github.com/ogorfti">
+      <img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogorfti&show_icons=true&langs_count=8&count_private=true&layout=compact&theme=algolia"
+      />
+ </a>
+ </p>
