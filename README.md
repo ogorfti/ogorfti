@@ -1,7 +1,7 @@
 ### <div align="center">Hi there, I'm Oussama Gorfti, I'm a self-taught front end developer and 1337 student 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [Password Generator](https://github.com/escano0r/password_generator)  
+- 🔭 I’m currently working on [so_long](https://github.com/ogorfti/so_long)  
   
 
 - 🌱 I’m currently learning React & Redux  
