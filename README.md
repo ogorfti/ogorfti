@@ -1,4 +1,4 @@
-### <div align="center">Hi there, I'm Oussama Gorfti, I'm a software engineer and 1337 student 👨‍💻</div>  
+### <div align="center">Hi there, I'm Oussama Gorfti, I'm a Software Engineer Student at 1337 Coding School 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on [so_long](https://github.com/ogorfti/so_long)  
