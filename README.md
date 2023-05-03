@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [so_long](https://github.com/ogorfti/so_long)  
   
 
-- 🌱 I’m currently learning React & Redux  
+- 🌱 I’m currently learning React
   
 
 - ⚡ Fun fact: I use tabs over spaces  
