@@ -26,6 +26,7 @@ alt="linkedin" src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/>]
 alt="linkedin" src="https://img.icons8.com/ios-filled/50/000000/instagram-new--v1.png"/>][instagram]
 <br/>
 
+![Profile Views](https://komarev.com/ghpvc/?username=ogorfti)
 <h2>Languages and Tools:</h2>
 
 [<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />][javascript]
