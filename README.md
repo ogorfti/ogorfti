@@ -94,3 +94,14 @@ alt="linkedin" src="https://img.icons8.com/ios-filled/50/000000/instagram-new--v
       />
  </a>
  </p>
+ 
+
+<p align="center">
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/ogorfti" alt="ogorfti's 42 stats" /></a>
+</p>
+  
+  
+  
+  
+  
+  
