@@ -1,7 +1,7 @@
 ### <div align="center">Hi there, I'm Oussama Gorfti, I'm a Software Engineer Student at 1337 Coding School 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [so_long](https://github.com/ogorfti/so_long)  
+- 🔭 I’m currently working on [inception](https://github.com/ogorfti/inception)  
   
 
 - 🌱 I’m currently learning React
