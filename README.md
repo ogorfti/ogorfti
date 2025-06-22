@@ -3,7 +3,7 @@
   <img src="https://user-images.githubusercontent.com/42088872/95290058-f13b9180-089e-11eb-94e3-a44a5a1172c3.jpg" alt="banner" width="100%" />
 </p>
 
-## Hey 👋, I'm Osama
+## Hello world! 👋
 
 <!-- <a href="https://github.com/ogorfti">
   <img align="right" alt="Profile Views" src="https://komarev.com/ghpvc/?username=ogorfti&color=brightgreen" />
