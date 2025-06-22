@@ -10,7 +10,7 @@
 </a> -->
 
 
-I'm a software developer from **Morocco** passionate about building impactful web applications.
+I'm Osama, a software developer from **Morocco** passionate about building impactful web applications.
 
 
 <details>
