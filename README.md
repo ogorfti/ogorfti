@@ -1,107 +1,82 @@
-### <div align="center">Hi there, I'm Oussama Gorfti, I'm a Software Engineer Student at 1337 Coding School 👨‍💻</div>  
-  
+<!-- Profile views counter -->
+![](https://komarev.com/ghpvc/?username=ogorfti&color=brightgreen)
 
-- 🔭 I’m currently working on [inception](https://github.com/ogorfti/inception)  
-  
+<!-- Name and greeting -->
+<h3 align="center">
+    <samp>&gt; Hey There!, I am
+        <b><a target="_blank" href="https://github.com/ogorfti">Oussama Gorfti</a></b>
+    </samp>
+</h3>
+<br>
 
-- 🌱 I’m currently learning React
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-
-
-### Connect with me:
-
-<img align='right' src="https://media2.giphy.com/media/wogIubFweiBkn6y8KU/giphy.gif" width="100px">
-
-Join me on Twitter where I tweet about projects I'm working on, tools I am using, or other platforms where I post about my personal life. 
-
-[<img align="left" width="26px"
-alt="twitter" src="https://img.icons8.com/ios-filled/50/000000/twitter.png"/>][twitter]
-
-[<img align="left" width="26px"
-alt="linkedin" src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/>][linkedin]
-
-[<img align="left" width="26px"
-alt="linkedin" src="https://img.icons8.com/ios-filled/50/000000/instagram-new--v1.png"/>][instagram]
-<br/>
-
-<h2>Languages and Tools:</h2>
-
-[<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />][javascript]
-
-[<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />][html]
-
-[<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />][css]
-
-
-[<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />][reactjs]
-
-[<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />][git]
-
-[<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />][c]
-
-[<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />][c++]
-<br />
-<br />
-<br />
-
-<!--- TOOLS LINKS -->
-
-[javascript]: https://www.javascript.com/ 'javascript'
-[html]: https://developer.mozilla.org/en-US/docs/Web/HTML 'html'
-[css]: https://developer.mozilla.org/en-US/docs/Web/CSS 'css'
-[reactjs]: https://reactjs.org/ 'reactjs'
-[git]: https://git-scm.com/ 'git'
-[c]: https://en.wikipedia.org/wiki/C_(programming_language)
-[c++]: https://en.wikipedia.org/wiki/C%2B%2B
-
-<!--- PERSONAL LINKS -->
-[twitter]: https://twitter.com
-[linkedin]: https://www.linkedin.com
-[instagram]: https://www.instagram.com/oussama_gf/
-
-<!--- STATS -->
-<!-- <p align="center">
-    <a href="https://github.com/ogorfti">
-      <img
-        align="center"
-        src="https://badge.mediaplus.ma/greenbinary/ogorfti"
-      />
-    </a>
-</p> -->
-
+<!-- Short bio -->
 <p align="center">
-    <a href="https://github.com/ogorfti">
-      <img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api?username=ogorfti&theme=algolia&show_icons=true"
-      />
-    </a>
-  <a href="https://github.com/ogorfti">
-      <img
-        align="center"
-        src="http://github-readme-streak-stats.herokuapp.com?user=ogorfti&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FF8964&ring=FFCB2B"
-      />
- </a>
+    <samp>
+        「 I'm a software developer from <b>Morocco</b> 」
+        <br>
+        「 Focused on creating impactful web applications that improve lives 」
+        <br><br>
+    </samp>
+    <!-- Technologies -->
+    <a href="https://github.com/ogorfti?tab=repositories" target="_blank"><img alt="JavaScript"
+        src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"></a>
+    <a href="https://github.com/ogorfti?tab=repositories" target="_blank"><img alt="React"
+        src="https://img.shields.io/badge/-React-02cdf1?style=flat-square&logo=React&logoColor=white"></a>
+    <a href="https://github.com/ogorfti?tab=repositories" target="_blank"><img alt="TailwindCSS"
+        src="https://img.shields.io/badge/-TailwindCSS-10172a?style=flat-square&logo=Tailwindcss&logoColor=37bcf8"></a>
+    <a href="https://github.com/ogorfti?tab=repositories" target="_blank"><img alt="Django"
+        src="https://img.shields.io/badge/-Django-00979D?style=flat-square&logo=Django&logoColor=white"></a>
+    <a href="https://github.com/ogorfti?tab=repositories" target="_blank"><img alt="Streamlit"
+        src="https://img.shields.io/badge/-Streamlit-white?style=flat-square&logo=Streamlit&logoColor=black"></a>
 </p>
 
-<p align="center">
-<a href="https://github.com/ogorfti">
-      <img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogorfti&show_icons=true&langs_count=8&count_private=true&layout=compact&theme=algolia"
-      />
- </a>
- </p>
- 
+<!-- More section (GitHub stats and social links) -->
+<details align="center">
+    <summary> <samp>&#9776; More</samp></summary>
+    <p align="center">
+        <br>
+        <img alt="Oussama Gorfti's GitHub Stats"
+            src="https://github-readme-stats.vercel.app/api?username=ogorfti&show_icons=true&theme=radical" />
+        <br>
+        <p>Find me on</p>
+        <a href="mailto:oussama.gorfti.work@gmail.com" target="_blank"><img alt="Mail"
+            src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
+        <a href="https://twitter.com/" target="_blank"><img alt="Twitter"
+            src="https://img.shields.io/badge/-Twitter-1c9bef?style=flat-square&logo=Twitter&logoColor=white"></a>
+        <a href="https://www.linkedin.com/in/oussama-gorfti/" target="_blank"><img alt="Linkedin"
+            src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"></a>
+        <a href="https://www.youtube.com/" target="_blank"><img alt="Youtube"
+            src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white"></a>
+    </p>
+</details>
+<br>
+
+<!-- Footer message -->
+<samp>
+    <p align="center">
+        ════ ⋆★⋆ ════
+        <br>
+        "Happy Coding👨‍💻"
+    </p>
+</samp>
+
+<!-- Featured projects -->
+#### Featured
 
 <p align="center">
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/ogorfti" alt="ogorfti's 42 stats" /></a>
-</p>
-  
-  
-  
-  
-  
-  
+<a href="https://github.com/42-team-projects/ft_transcendence">
+<img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=42-team-projects&repo=ft_transcendence&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/ogorfti/inception">
+<img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ogorfti&repo=inception&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+
+<p align="center">
+<a href="https://github.com/webserv-team/webserv">
+<img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=webserv-team&repo=webserv&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/m4nnb3ll/miniRT">
+<img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m4nnb3ll&repo=miniRT&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
